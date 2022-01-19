@@ -99,7 +99,6 @@ jQuery(document).ready(function($) {
       url: action,
       data: str,
       success: function(msg) {
-        // alert(msg);
         if (msg == 'OK') {
           $("#sendmessage").addClass("show");
           $("#errormessage").removeClass("show");
@@ -112,6 +111,8 @@ jQuery(document).ready(function($) {
 
       }
     });
+    alert("Devo essere sincero con te, io l'ho inviata, ma non penso risponderà :(");
+    location.reload();
     return false;
   });
 

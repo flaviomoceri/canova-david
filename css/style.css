@@ -240,10 +240,11 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/home-bg.png") repeat scroll center center / cover;
+  background: url("../images/home-bg-canova.png") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
 }
+
 
 
 #header .header-content {
@@ -282,6 +283,20 @@ nav ul li a {
   color: #fff;
   font-size: 15px;
 }
+#headerdavid {
+  background: url("../images/home-bg-david.png") repeat scroll center center / cover;
+  height: 100vh;
+  width: 100%;
+}
+#headerdavid .header-content {
+  height: 100vh;
+  text-align: left;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
 
 /*-----------------------------------------------------------------------------------*/
 /*  Aout-us
@@ -317,7 +332,7 @@ nav ul li a {
 #about .about-descr .separator {
   max-width: 80%;
   margin-bottom: 0;
-  text-align: left;
+  text-align: initial !important;
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -384,6 +399,23 @@ nav ul li a {
 
 .owl-nav {
   display: none;
+}
+.text-work-title{
+  display: block;
+    font-size: 19px;
+    line-height: 24px;
+    margin: 0 0 13px 0;
+    font-weight: 500;
+    color: #292929;
+    text-align: initial;
+    margin-top: 10px;
+}
+.text-work-subtitle{
+  margin: 0;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: initial !important;
+  font-weight: 100;
 }
 
 
@@ -571,7 +603,8 @@ nav ul li a {
 
 /*-----------------------------------------------------------------------------------*/
 /*  Footer
-/*-----------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------*/.
+
 
 #footer {
   background: #f7f7f7;

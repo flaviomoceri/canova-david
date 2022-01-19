@@ -85,6 +85,17 @@ $(document).ready(function() {
     });
   });
 
+  var typeddavid = $(".typed-david");
+
+  $(function() {
+    typeddavid.typed({
+      strings: ["David.", "un pittore.", "un politico francese."],
+      typeSpeed: 100,
+      loop: true,
+    });
+  });
+
+
 
   // ========================================================================= //
   //  Owl Carousel Services
