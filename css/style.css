@@ -194,6 +194,7 @@ nav {
     color: white !important;
     background-color: black !important;
     width: 100px !important;
+    height: 30px !important;
 }
 .color-button-mobile{
   border: transparent;
@@ -201,7 +202,7 @@ nav {
   color: white;
   background-color: black;
   width: 90px;
-  height: 30px;
+  height: 30px !important;
 }
 .nav-menu {
   float: right;
