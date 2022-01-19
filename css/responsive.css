@@ -44,6 +44,13 @@
     padding-top: 15px;
     display: block;
   }
+  .responsive-davidbutton{
+    display: block;
+    float: right;
+    margin-right: 20px;
+    width: 100px !important;
+    margin-top: 14px;
+  }
   /* About */
   .head-info .header-content .cmaster h1 {
     font-size: 32px;
@@ -114,6 +121,13 @@
     float: right;
     padding-top: 15px;
     display: block;
+  }
+  .responsive-davidbutton{
+    display: block;
+    float: right;
+    margin-right: 20px;
+    width: 100px !important;
+    margin-top: 14px;
   }
   /* About */
   .head-info .header-content h1 {
@@ -186,6 +200,13 @@
     padding-top: 15px;
     display: block;
   }
+  .responsive-davidbutton{
+    display: block;
+    float: right;
+    margin-right: 20px;
+    width: 100px !important;
+    margin-top: 14px;
+  }
   /* About */
   .head-info .header-content h1 {
     font-size: 32px;
@@ -257,6 +278,13 @@
     padding-top: 15px;
     display: block;
   }
+  .responsive-davidbutton{
+    display: block;
+    float: right;
+    margin-right: 20px;
+    width: 100px !important;
+    margin-top: 14px;
+  }
   /* About */
   .head-info .header-content h1 {
     font-size: 32px;
@@ -326,6 +354,13 @@
     float: right;
     padding-top: 15px;
     display: block;
+  }
+  .responsive-davidbutton{
+    display: block;
+    float: right;
+    margin-right: 20px;
+    width: 100px !important;
+    margin-top: 14px;
   }
   /* About */
   .head-info .header-content h1 {
