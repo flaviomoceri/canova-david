@@ -9,6 +9,9 @@
     width: 130px !important;
     height: 40px !important;
 }
+.img-responsive{
+  width: 100% !important
+}
 
 /*  -  Navbar fixd page
 /*-----------------------------------------------------------------------------------*/
