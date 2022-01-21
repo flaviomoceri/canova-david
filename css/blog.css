@@ -1,4 +1,14 @@
 /*-----------------------------------------------------------------------------------*/
+.goback-button{
+  border-color: transparent !important;
+    border-radius: 10px !important;
+    color: white !important;
+    background-color: black !important;
+    float: right !important;
+    margin-top: 10px !important;
+    width: 130px !important;
+    height: 40px !important;
+}
 
 /*  -  Navbar fixd page
 /*-----------------------------------------------------------------------------------*/
