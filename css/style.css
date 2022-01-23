@@ -564,7 +564,23 @@ nav ul li a {
   font-size: 14px;
   line-height: 24px;
 }
-
+.testo-indroduttivo{
+  text-align: center;
+}
+.container-testo-indroduttivo{
+  display: flex;
+}
+.grid-cell-1{
+  margin-right: 10vh;
+}
+.logo-testo-introduttivo{
+  margin-top: 15px;
+    font-size: 20px;
+    font-family: 'Ionicons';
+}
+strong{
+  font-weight: 600 !important;
+}
 /*-----------------------------------------------------------------------------------*/
 /*  Contact
 /*-----------------------------------------------------------------------------------*/
